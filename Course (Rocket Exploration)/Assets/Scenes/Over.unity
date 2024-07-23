@@ -317,14 +317,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 6840736001313447644, guid: 92804659366fb4068ad59f15fd8b106c, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6840736001313447644, guid: 92804659366fb4068ad59f15fd8b106c, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6840736001313447644, guid: 92804659366fb4068ad59f15fd8b106c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -30
       objectReference: {fileID: 0}
@@ -391,7 +383,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4344468372117969949, guid: a2ee972e70b4b4fff98c4eb45a4d7b39, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7
+      value: 3.91
       objectReference: {fileID: 0}
     - target: {fileID: 4344468372117969949, guid: a2ee972e70b4b4fff98c4eb45a4d7b39, type: 3}
       propertyPath: m_LocalPosition.z
@@ -441,14 +433,6 @@ PrefabInstance:
     - target: {fileID: 6148284951086290358, guid: 3a3046ee78bc44b908dac564601e03a0, type: 3}
       propertyPath: m_Name
       value: Landing pad
-      objectReference: {fileID: 0}
-    - target: {fileID: 6606526442183510572, guid: 3a3046ee78bc44b908dac564601e03a0, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6606526442183510572, guid: 3a3046ee78bc44b908dac564601e03a0, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6606526442183510572, guid: 3a3046ee78bc44b908dac564601e03a0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -543,13 +527,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3054207040621541926, guid: 697a09ec14c924e6ebc0b2541a438307, type: 3}
+      propertyPath: delay
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6764942072541725040, guid: 697a09ec14c924e6ebc0b2541a438307, type: 3}
       propertyPath: m_Name
       value: Rocket
-      objectReference: {fileID: 0}
-    - target: {fileID: 7230716148664513404, guid: 697a09ec14c924e6ebc0b2541a438307, type: 3}
-      propertyPath: m_Drag
-      value: 0.25
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
