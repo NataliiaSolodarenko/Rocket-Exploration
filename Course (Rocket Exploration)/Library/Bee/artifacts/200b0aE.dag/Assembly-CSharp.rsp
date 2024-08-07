@@ -353,6 +353,8 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/CollisionHandler.cs"
 "Assets/Scripts/Movement.cs"
+"Assets/Scripts/Oscillator.cs"
+"Assets/Scripts/QuitApplication.cs"
 -langversion:9.0
 /deterministic
 /optimize+
